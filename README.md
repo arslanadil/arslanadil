@@ -136,8 +136,6 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <h2>⚡ Tech Stack</h2>
 
-<h3>🛡️ Cybersecurity & VAPT</h3>
-
 <p align="center">
   <img src="assets/logos/burpsuite.png" height="55" alt="Burp Suite"/>
   &nbsp;&nbsp;
@@ -152,54 +150,34 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
   <img src="assets/logos/owasp.png" height="55" alt="OWASP"/>
   &nbsp;&nbsp;
   <img src="assets/logos/mitre.png" height="55" alt="MITRE ATT&CK"/>
-</p>
-
-<br>
-
-<h3>🐧 Systems & Networking</h3>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco" height="55" alt="Cisco"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/splunk" height="55" alt="Splunk"/>
-</p>
-
-<br>
-
-<h3>☁️ Cloud Security</h3>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws" height="55" alt="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud" height="55" alt="Google Cloud"/>
-</p>
-
-<br>
-
-<h3>💻 Programming & Database</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
-</p>
-
-<br>
-
-<h3>⚙️ Development</h3>
-
-<p align="center">
   <img src="https://cdn.simpleicons.org/git" height="55" alt="Git"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github" height="55" alt="GitHub"/>
 </p>
 
+<br>
+
+**Cybersecurity**  
+VAPT | Web Application Security | Cloud Security | Bug Hunting | Threat Detection | Security Analysis | Vulnerability Assessment | OWASP Top 10 | MITRE ATT&CK
+
+**Security Tools**  
+Burp Suite | Metasploit | Nessus | Nmap | Wireshark | Splunk | Vega
+
+**Systems & Networking**  
+Linux | TCP/IP | DNS | HTTP/HTTPS | Network Security | SIEM | EDR/XDR | Cisco Networking
+
+**Programming & Databases**  
+Python | C | C++ | MySQL | Database Management
+
+**Embedded Systems**  
+Keil uVision | LPC1768 | DHT11 | RFID | Microcontrollers
 ---
 
 <h2>📜 Certifications</h2>
