@@ -94,7 +94,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/cranes-varsity.png" width="25" alt="Cranes Varsity">
+<img src="assets/logos/cranes varsity.jpg" width="25" alt="Cranes Varsity">
 &nbsp;Cranes Varsity
 </td>
 <td>Embedded Systems Intern</td>
