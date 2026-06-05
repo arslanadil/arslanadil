@@ -236,7 +236,7 @@ Embedded: LPC1768 | Keil uVision | DHT11 | RFID
 * Threat Detection & Monitoring
 * Security Automation with Python
 * SOC Operations & Incident Analysis
-* * Cloud Security Assessments
+* Cloud Security Assessments
 
 ---
 
