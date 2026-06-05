@@ -134,47 +134,34 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </table>
 ---
 
-<h2>⚡ Tech Stack</h2>
+<table>
+<tr>
+<td><strong>🛡️ Cybersecurity</strong></td>
+<td>
+<img src="assets/logos/burpsuite.png" height="40"/>
+<img src="assets/logos/metasploit.png" height="40"/>
+<img src="assets/logos/nessus.png" height="40"/>
+<img src="assets/logos/nmap.png" height="40"/>
+</td>
+</tr>
 
-<p align="center">
+<tr>
+<td><strong>☁️ Cloud</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
+<img src="https://cdn.simpleicons.org/googlecloud" height="40"/>
+</td>
+</tr>
 
-<!-- Cybersecurity -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux"/>
-<img src="https://cdn.simpleicons.org/splunk" height="50" title="Splunk"/>
-<img src="https://cdn.simpleicons.org/wireshark" height="50" title="Wireshark"/>
-<img src="https://cdn.simpleicons.org/cloudflare" height="50" title="Cloud Security"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Programming -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Cloud -->
-<img src="https://cdn.simpleicons.org/amazonaws" height="50" title="AWS"/>
-<img src="https://cdn.simpleicons.org/googlecloud" height="50" title="Google Cloud"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Networking -->
-<img src="https://cdn.simpleicons.org/cisco" height="50" title="Cisco"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Development -->
-<img src="https://cdn.simpleicons.org/github" height="50" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/git" height="50" title="Git"/>
-
-</p>
-
+<tr>
+<td><strong>💻 Programming</strong></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</td>
+</tr>
+</table>
 
 ---
 
