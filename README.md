@@ -70,6 +70,8 @@ Programming: Python | C | C++ | MySQL
 Systems: Linux | TCP/IP | DNS | HTTP/HTTPS
 
 Embedded: LPC1768 | Keil uVision | DHT11 | RFID
+
+
 ---
 
 ## 📜 Certifications
