@@ -40,6 +40,17 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 * 🌐 Interested in Web Security, Cloud Security, Threat Hunting, and Security Research
 
 ---
+<h2>🏢 Organizations</h2>
+
+<p align="center">
+  <img src="assets/logos/logging security.jpg" height="70" alt="Logging Security">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/hackerade.jpg" height="70" alt="Hackerade">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/avira world.jpg" height="70" alt="Avira World">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/cranes varsity.jpg" height="70" alt="Cranes Varsity">
+</p>
 <h2>💼 Experience</h2>
 
 <table>
@@ -51,51 +62,34 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </tr>
 
 <tr>
-<td>
-<img src="assets/logos/logging security.jpg" height="40" alt="Logging Security">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Logging Security Pvt. Ltd.</strong>
-</td>
+<td>Logging Security Pvt. Ltd.</td>
 <td>VAPT & Cloud Security Analyst</td>
-<td align="center">Part-Time</td>
-<td align="center">May 2026 – Present</td>
+<td>Part-Time</td>
+<td>May 2026 – Present</td>
 </tr>
 
 <tr>
-<td>
-<img src="assets/logos/hackerade.jpg" height="40" alt="Hackerade">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Hackerade</strong>
-</td>
+<td>Hackerade</td>
 <td>Cyber Security Trainee</td>
-<td align="center">Part-Time</td>
-<td align="center">Sep 2025 – Present</td>
+<td>Part-Time</td>
+<td>Sep 2025 – Present</td>
 </tr>
 
 <tr>
-<td>
-<img src="assets/logos/avira world.jpg" height="40" alt="Avira World">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Avira World</strong>
-</td>
+<td>Avira World</td>
 <td>Cyber Security Analyst Intern</td>
-<td align="center">Part-Time</td>
-<td align="center">Feb 2025 – Apr 2025</td>
+<td>Part-Time</td>
+<td>Feb 2025 – Apr 2025</td>
 </tr>
 
 <tr>
-<td>
-<img src="assets/logos/cranes varsity.jpg" height="40" alt="Cranes Varsity">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Cranes Varsity</strong>
-</td>
+<td>Cranes Varsity</td>
 <td>Embedded Systems Intern</td>
-<td align="center">Part-Time</td>
-<td align="center">Jul 2024 – Feb 2025</td>
+<td>Part-Time</td>
+<td>Jul 2024 – Feb 2025</td>
 </tr>
 
 </table>
-
 
 ---
 
