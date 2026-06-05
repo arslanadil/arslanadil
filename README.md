@@ -179,6 +179,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 <br><br>
 
 <b>Embedded Systems:</b> Keil uVision | LPC1768 | DHT11 | RFID | Microcontrollers
+
 ---
 
 <h2>📜 Certifications</h2>
