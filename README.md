@@ -51,7 +51,6 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/cranes varsity.jpg" height="70" alt="Cranes Varsity">
 </p>
-<h2>💼 Experience</h2>
 
 <table>
 <tr>
