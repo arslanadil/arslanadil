@@ -45,17 +45,6 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <table>
 <tr>
-<td><img src=" width="40"></td>
-<td><b>Logging Security Pvt. Ltd.</b></td>
-<td>VAPT & Cloud Security Analyst</td>
-<td>Part-Time</td>
-<td>May 2026 – Present</td>
-</tr>
-</table>
-<h2>💼 Experience</h2>
-
-<table>
-<tr>
 <th>Company</th>
 <th>Role</th>
 <th>Mode</th>
@@ -84,7 +73,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/avira-world.png" width="25" alt="Avira World">
+<img src="assets/logos/avira world.jpg" width="25" alt="Avira World">
 &nbsp;Avira World
 </td>
 <td>Cyber Security Analyst Intern</td>
