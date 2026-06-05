@@ -40,6 +40,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 * 🌐 Interested in Web Security, Cloud Security, Threat Hunting, and Security Research
 
 ---
+<h2>💼 Experience</h2>
 
 <table>
 <tr>
