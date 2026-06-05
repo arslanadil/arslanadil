@@ -64,7 +64,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src=""assets/logos/logging security.jpg" width="25" alt="Logging Security">
+<img src="assets/logos/logging security.jpg" width="25" alt="Logging Security">
 &nbsp;Logging Security Pvt. Ltd.
 </td>
 <td>VAPT & Cloud Security Analyst</td>
