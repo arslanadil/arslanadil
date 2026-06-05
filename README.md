@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Neutral Creative Professional LinkedIn Article Cover Image.jpg
+<p align="center">
+  <img src=<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="Banner">
+</p> alt="Banner">
+</p>
 # <h1 align="center">Hi 👋, I'm Arslan Adil</h1>
 
 <h3 align="center">VAPT & Cloud Security Analyst | Cybersecurity Researcher | CEH Certified</h3>
