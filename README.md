@@ -76,12 +76,13 @@ Embedded: LPC1768 | Keil uVision | DHT11 | RFID
 
 ## 📜 Certifications
 
-| Certification                                  | Issuing Organization |
-| ---------------------------------------------- | -------------------- |
-| Certified Ethical Hacker (CEH)                 | Hackerade            |
-| Certified Network Security Practitioner (CNSP) | SecOps Group         |
-| Diploma in Embedded Development                | Cranes Varsity       |
-| Switching, Routing and Wireless Essentials     | Cisco                |
+| Certification | Organization |
+|--------------|--------------|
+| Certified Ethical Hacker (CEH) | Hackerade |
+| Certified Network Security Practitioner (CNSP) | SecOps Group |
+| Certified Security Engineering & DevSecOps Professional (CSEDP) | SecOps Group |
+| Diploma in Embedded Development | Cranes Varsity |
+| Switching, Routing and Wireless Essentials | Cisco |
 
 ---
 
