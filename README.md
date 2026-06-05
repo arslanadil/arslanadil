@@ -41,45 +41,44 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
+```html
 <tr>
-<td align="center">
-  <img src="assets/logos/logging security.jpg" width="60"><br>
-  <strong>Logging Security Pvt. Ltd.</strong>
+<td valign="middle">
+<img src="assets/logos/logging security.jpg" width="45" alt="Logging Security"> Logging Security Pvt. Ltd.
 </td>
-<td>VAPT & Cloud Security Analyst</td>
-<td>Part-Time</td>
-<td>May 2026 – Present</td>
+<td align="center">VAPT & Cloud Security Analyst</td>
+<td align="center">Part-Time</td>
+<td align="center">May 2026 – Present</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="assets/logos/hackerade.jpg" width="60"><br>
-  <strong>Hackerade</strong>
+<td valign="middle">
+<img src="assets/logos/hackerade.jpg" width="45" alt="Hackerade"> Hackerade
 </td>
-<td>Cyber Security Trainee</td>
-<td>Part-Time</td>
-<td>Sep 2025 – Present</td>
+<td align="center">Cyber Security Trainee</td>
+<td align="center">Part-Time</td>
+<td align="center">Sep 2025 – Present</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="assets/logos/avira world.jpg" width="60"><br>
-  <strong>Avira World</strong>
+<td valign="middle">
+<img src="assets/logos/avira world.jpg" width="45" alt="Avira World"> Avira World
 </td>
-<td>Cyber Security Analyst Intern</td>
-<td>Part-Time</td>
-<td>Feb 2025 – Apr 2025</td>
+<td align="center">Cyber Security Analyst Intern</td>
+<td align="center">Part-Time</td>
+<td align="center">Feb 2025 – Apr 2025</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="assets/logos/cranes varsity.jpg" width="60"><br>
-  <strong>Cranes Varsity</strong>
+<td valign="middle">
+<img src="assets/logos/cranes varsity.jpg" width="45" alt="Cranes Varsity"> Cranes Varsity
 </td>
-<td>Embedded Systems Intern</td>
-<td>Part-Time</td>
-<td>Jul 2024 – Feb 2025</td>
+<td align="center">Embedded Systems Intern</td>
+<td align="center">Part-Time</td>
+<td align="center">Jul 2024 – Feb 2025</td>
 </tr>
+```
+
 ---
 
 ## 🎓 Education
