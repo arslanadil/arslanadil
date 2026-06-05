@@ -53,7 +53,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/logging security.jpg" width="25" alt="Logging Security">
+<img src="assets/logos/logging security.jpg" width="40" alt="Logging Security">
 &nbsp;Logging Security Pvt. Ltd.
 </td>
 <td>VAPT & Cloud Security Analyst</td>
@@ -63,7 +63,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/hackerade.jpg" width="25" alt="Hackerade">
+<img src="assets/logos/hackerade.jpg" width="40" alt="Hackerade">
 &nbsp;Hackerade
 </td>
 <td>Cyber Security Trainee</td>
@@ -73,7 +73,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/avira world.jpg" width="25" alt="Avira World">
+<img src="assets/logos/avira world.jpg" width="40" alt="Avira World">
 &nbsp;Avira World
 </td>
 <td>Cyber Security Analyst Intern</td>
@@ -83,7 +83,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/cranes varsity.jpg" width="25" alt="Cranes Varsity">
+<img src="assets/logos/cranes varsity.jpg" width="40" alt="Cranes Varsity">
 &nbsp;Cranes Varsity
 </td>
 <td>Embedded Systems Intern</td>
