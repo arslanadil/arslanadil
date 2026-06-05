@@ -41,7 +41,13 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
-```html
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Mode</th>
+<th>Duration</th>
+</tr>
 <tr>
 <td valign="middle">
 <img src="assets/logos/logging security.jpg" width="45" alt="Logging Security"> Logging Security Pvt. Ltd.
@@ -77,7 +83,8 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 <td align="center">Part-Time</td>
 <td align="center">Jul 2024 – Feb 2025</td>
 </tr>
-```
+</table>
+
 
 ---
 
