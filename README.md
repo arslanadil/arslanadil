@@ -53,8 +53,10 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/logging security.jpg" width="40" alt="Logging Security">
-&nbsp;Logging Security Pvt. Ltd.
+<div style="display:flex;align-items:center;gap:12px;">
+<img src="assets/logos/logging security.jpg" width="50" alt="Logging Security">
+<strong>Logging Security Pvt. Ltd.</strong>
+</div>
 </td>
 <td>VAPT & Cloud Security Analyst</td>
 <td>Part-Time</td>
@@ -63,8 +65,10 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/hackerade.jpg" width="40" alt="Hackerade">
-&nbsp;Hackerade
+<div style="display:flex;align-items:center;gap:12px;">
+<img src="assets/logos/hackerade.jpg" width="50" alt="Hackerade">
+<strong>Hackerade</strong>
+</div>
 </td>
 <td>Cyber Security Trainee</td>
 <td>Part-Time</td>
@@ -73,8 +77,10 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/avira world.jpg" width="40" alt="Avira World">
-&nbsp;Avira World
+<div style="display:flex;align-items:center;gap:12px;">
+<img src="assets/logos/avira world.jpg" width="50" alt="Avira World">
+<strong>Avira World</strong>
+</div>
 </td>
 <td>Cyber Security Analyst Intern</td>
 <td>Part-Time</td>
@@ -83,8 +89,10 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <tr>
 <td>
-<img src="assets/logos/cranes varsity.jpg" width="40" alt="Cranes Varsity">
-&nbsp;Cranes Varsity
+<div style="display:flex;align-items:center;gap:12px;">
+<img src="assets/logos/cranes varsity.jpg" width="50" alt="Cranes Varsity">
+<strong>Cranes Varsity</strong>
+</div>
 </td>
 <td>Embedded Systems Intern</td>
 <td>Part-Time</td>
@@ -92,7 +100,6 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </tr>
 
 </table>
-
 ---
 
 ## 🎓 Education
