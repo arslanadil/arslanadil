@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="Neutral Creative Professional LinkedIn Article Cover Image.jpg" width="100%" alt="Banner">
 </p>
-# <h1 align="center">Hi 👋, I'm Arslan Adil</h1>
+ <h1 align="center">Hi 👋, I'm Arslan Adil</h1>
 
 <h3 align="center">VAPT & Cloud Security Analyst | Cybersecurity Researcher | CEH Certified</h3>
 
