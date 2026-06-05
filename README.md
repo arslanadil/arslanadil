@@ -41,14 +41,17 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
-## 💼 Experience
+<h2>💼 Experience</h2>
 
-| Company                                    | Role                          | Duration            |
-| ------------------------------------------ | ----------------------------- | ------------------- |
-| Logging Security Pvt. Ltd., Ranchi         | VAPT & Cloud Security Analyst | May 2026 – Present  |
-| Hackerade, Ranchi                          | Cyber Security Trainee        | Sep 2025 – Present  |
-| Avira World, Ranchi                        | Cyber Security Analyst Intern | Feb 2025 – Apr 2025 |
-| Cranes Varsity, CV Raman Global University | Embedded Systems Intern       | Jul 2024 – Feb 2025 |
+<table>
+<tr>
+<td><img src="assets/logos/logging-security.png" width="40"></td>
+<td><b>Logging Security Pvt. Ltd.</b></td>
+<td>VAPT & Cloud Security Analyst</td>
+<td>Part-Time</td>
+<td>May 2026 – Present</td>
+</tr>
+</table>
 
 ---
 
