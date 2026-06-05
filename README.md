@@ -149,8 +149,6 @@ Embedded: LPC1768 | Keil uVision | DHT11 | RFID
 
 ---
 
-## 📜 Certifications
-
 <h2>📜 Certifications</h2>
 
 <table>
@@ -233,12 +231,12 @@ Embedded: LPC1768 | Keil uVision | DHT11 | RFID
 
 ## 🎯 Current Focus
 
-* Cloud Security Assessments
 * Web Application Penetration Testing
 * Security Research
 * Threat Detection & Monitoring
 * Security Automation with Python
 * SOC Operations & Incident Analysis
+* * Cloud Security Assessments
 
 ---
 
