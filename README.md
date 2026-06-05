@@ -134,17 +134,46 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </table>
 ---
 
-## ⚡ Tech Stack
+<h2>⚡ Tech Stack</h2>
 
-Cybersecurity: VAPT | Cloud Security | OWASP Top 10 | Bug Hunting | Threat Detection | Security Analysis
+<p align="center">
 
-Tools: Burp Suite | Metasploit | Nessus | Splunk | Wireshark | Nmap
+<!-- Cybersecurity -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux"/>
+<img src="https://cdn.simpleicons.org/splunk" height="50" title="Splunk"/>
+<img src="https://cdn.simpleicons.org/wireshark" height="50" title="Wireshark"/>
+<img src="https://cdn.simpleicons.org/cloudflare" height="50" title="Cloud Security"/>
 
-Programming: Python | C | C++ | MySQL
+&nbsp;&nbsp;&nbsp;
 
-Systems: Linux | TCP/IP | DNS | HTTP/HTTPS
+<!-- Programming -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++"/>
 
-Embedded: LPC1768 | Keil uVision | DHT11 | RFID
+&nbsp;&nbsp;&nbsp;
+
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- Cloud -->
+<img src="https://cdn.simpleicons.org/amazonaws" height="50" title="AWS"/>
+<img src="https://cdn.simpleicons.org/googlecloud" height="50" title="Google Cloud"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- Networking -->
+<img src="https://cdn.simpleicons.org/cisco" height="50" title="Cisco"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- Development -->
+<img src="https://cdn.simpleicons.org/github" height="50" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/git" height="50" title="Git"/>
+
+</p>
 
 
 ---
