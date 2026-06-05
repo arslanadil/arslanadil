@@ -172,7 +172,7 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 **Programming:** Python | C | C++ | MySQL
 
-**Embedded:** Keil uVision | LPC1768 | DHT11 | RFID
+**Embedded Systems\:** Keil uVision | LPC1768 | DHT11 | RFID | Microcontrollers
 ---
 
 <h2>📜 Certifications</h2>
