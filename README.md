@@ -41,22 +41,10 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
-<h2>💼 Experience</h2>
-
-<table>
 <tr>
-<th>Company</th>
-<th>Role</th>
-<th>Mode</th>
-<th>Duration</th>
-</tr>
-
-<tr>
-<td>
-<div style="display:flex;align-items:center;gap:12px;">
-<img src="assets/logos/logging security.jpg" width="50" alt="Logging Security">
-<strong>Logging Security Pvt. Ltd.</strong>
-</div>
+<td align="center">
+  <img src="assets/logos/logging security.jpg" width="60"><br>
+  <strong>Logging Security Pvt. Ltd.</strong>
 </td>
 <td>VAPT & Cloud Security Analyst</td>
 <td>Part-Time</td>
@@ -64,11 +52,9 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </tr>
 
 <tr>
-<td>
-<div style="display:flex;align-items:center;gap:12px;">
-<img src="assets/logos/hackerade.jpg" width="50" alt="Hackerade">
-<strong>Hackerade</strong>
-</div>
+<td align="center">
+  <img src="assets/logos/hackerade.jpg" width="60"><br>
+  <strong>Hackerade</strong>
 </td>
 <td>Cyber Security Trainee</td>
 <td>Part-Time</td>
@@ -76,11 +62,9 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </tr>
 
 <tr>
-<td>
-<div style="display:flex;align-items:center;gap:12px;">
-<img src="assets/logos/avira world.jpg" width="50" alt="Avira World">
-<strong>Avira World</strong>
-</div>
+<td align="center">
+  <img src="assets/logos/avira world.jpg" width="60"><br>
+  <strong>Avira World</strong>
 </td>
 <td>Cyber Security Analyst Intern</td>
 <td>Part-Time</td>
@@ -88,18 +72,14 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </tr>
 
 <tr>
-<td>
-<div style="display:flex;align-items:center;gap:12px;">
-<img src="assets/logos/cranes varsity.jpg" width="50" alt="Cranes Varsity">
-<strong>Cranes Varsity</strong>
-</div>
+<td align="center">
+  <img src="assets/logos/cranes varsity.jpg" width="60"><br>
+  <strong>Cranes Varsity</strong>
 </td>
 <td>Embedded Systems Intern</td>
 <td>Part-Time</td>
 <td>Jul 2024 – Feb 2025</td>
 </tr>
-
-</table>
 ---
 
 ## 🎓 Education
