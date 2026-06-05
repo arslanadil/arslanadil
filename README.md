@@ -162,17 +162,23 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
   <img src="https://cdn.simpleicons.org/github" height="55" alt="GitHub"/>
 </p>
 
-<br>
+<b>Cybersecurity:</b> VAPT | Web Application Security | Cloud Security | Bug Hunting | Threat Detection | Security Analysis | Vulnerability Assessment | OWASP Top 10 | MITRE ATT&CK
 
-**Cybersecurity:** VAPT | Web Security | Cloud Security | Bug Hunting | Threat Detection | Vulnerability Assessment | OWASP Top 10 | MITRE ATT&CK
+<br><br>
 
-**Tools:** Burp Suite | Metasploit | Nessus | Nmap | Wireshark | Splunk | Vega
+<b>Security Tools:</b> Burp Suite | Metasploit | Nessus | Nmap | Wireshark | Splunk | Vega
 
-**Networking:** Linux | TCP/IP | DNS | HTTP/HTTPS | SIEM | EDR/XDR | Cisco
+<br><br>
 
-**Programming:** Python | C | C++ | MySQL
+<b>Systems & Networking:</b> Linux | TCP/IP | DNS | HTTP/HTTPS | Network Security | SIEM | EDR/XDR | Cisco Networking
 
-**Embedded Systems\:** Keil uVision | LPC1768 | DHT11 | RFID | Microcontrollers
+<br><br>
+
+<b>Programming & Databases:</b> Python | C | C++ | MySQL | Database Management
+
+<br><br>
+
+<b>Embedded Systems:</b> Keil uVision | LPC1768 | DHT11 | RFID | Microcontrollers
 ---
 
 <h2>📜 Certifications</h2>
