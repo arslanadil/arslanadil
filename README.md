@@ -92,14 +92,46 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-| Institution                               | Degree                                             | Duration    |
-| ----------------------------------------- | -------------------------------------------------- | ----------- |
-| C.V. Raman Global University, Bhubaneswar | B.Tech Computer Science & Engineering (CGPA: 6.66) | 2021 – 2025 |
-| Firayalal Public School, Ranchi           | Class XII (62.3%)                                  | 2018 – 2020 |
-| Vincent Public School, Bihar              | Class X (66%)                                      | 2018        |
+<p align="center">
+  <img src="assets/logos/cgu.jpg" height="80" alt="CV Raman Global University">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/fps.jpg" height="80" alt="Firayalal Public School">
+</p>
 
+<br>
+
+<table>
+<tr>
+<th>Institution</th>
+<th>Qualification</th>
+<th>Score</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>C.V. Raman Global University, Bhubaneswar</td>
+<td>B.Tech. Computer Science & Engineering</td>
+<td>CGPA: 6.66</td>
+<td>2021 – 2025</td>
+</tr>
+
+<tr>
+<td>Firayalal Public School, Ranchi</td>
+<td>Class XII</td>
+<td>62.3%</td>
+<td>2018 – 2020</td>
+</tr>
+
+<tr>
+<td>Vincent Public School, Bihar</td>
+<td>Class X</td>
+<td>66%</td>
+<td>2018</td>
+</tr>
+
+</table>
 ---
 
 ## ⚡ Tech Stack
