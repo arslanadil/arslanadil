@@ -59,46 +59,17 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Tech Stack
 
-### Cybersecurity
+Cybersecurity: VAPT | Cloud Security | OWASP Top 10 | Bug Hunting | Threat Detection | Security Analysis
 
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* Web Application Security Testing
-* Cloud Security
-* Bug Hunting
-* Threat Detection
-* Security Analysis
-* Vulnerability Identification
-* OWASP Top 10
-* MITRE ATT&CK
+Tools: Burp Suite | Metasploit | Nessus | Splunk | Wireshark | Nmap
 
-### Security Tools
+Programming: Python | C | C++ | MySQL
 
-* Burp Suite
-* Metasploit
-* Nessus
-* Vega
-* Splunk
-* Wireshark
-* Nmap
+Systems: Linux | TCP/IP | DNS | HTTP/HTTPS
 
-### Networking & Systems
-
-* Linux
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Network Security Fundamentals
-
-### Programming & Databases
-
-* Python
-* C
-* C++
-* MySQL
-* Database Management
-
+Embedded: LPC1768 | Keil uVision | DHT11 | RFID
 ---
 
 ## 📜 Certifications
