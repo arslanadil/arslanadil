@@ -134,34 +134,71 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 </table>
 ---
 
-<table>
-<tr>
-<td><strong>🛡️ Cybersecurity</strong></td>
-<td>
-<img src="assets/logos/burpsuite.png" height="40"/>
-<img src="assets/logos/metasploit.png" height="40"/>
-<img src="assets/logos/nessus.png" height="40"/>
-<img src="assets/logos/nmap.png" height="40"/>
-</td>
-</tr>
+<h2>⚡ Tech Stack</h2>
 
-<tr>
-<td><strong>☁️ Cloud</strong></td>
-<td>
-<img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
-<img src="https://cdn.simpleicons.org/googlecloud" height="40"/>
-</td>
-</tr>
+<h3>🛡️ Cybersecurity & VAPT</h3>
 
-<tr>
-<td><strong>💻 Programming</strong></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/logos/burpsuite.png" height="55" alt="Burp Suite"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/metasploit.png" height="55" alt="Metasploit"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/nessus.png" height="55" alt="Nessus"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/nmap.png" height="55" alt="Nmap"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/wireshark.png" height="55" alt="Wireshark"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/owasp.png" height="55" alt="OWASP"/>
+  &nbsp;&nbsp;
+  <img src="assets/logos/mitre.png" height="55" alt="MITRE ATT&CK"/>
+</p>
+
+<br>
+
+<h3>🐧 Systems & Networking</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco" height="55" alt="Cisco"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk" height="55" alt="Splunk"/>
+</p>
+
+<br>
+
+<h3>☁️ Cloud Security</h3>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws" height="55" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" height="55" alt="Google Cloud"/>
+</p>
+
+<br>
+
+<h3>💻 Programming & Database</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
+</p>
+
+<br>
+
+<h3>⚙️ Development</h3>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git" height="55" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" height="55" alt="GitHub"/>
+</p>
 
 ---
 
