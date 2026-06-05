@@ -45,12 +45,63 @@ Cybersecurity professional with hands-on experience in Vulnerability Assessment 
 
 <table>
 <tr>
-<td><img src="assets/logos/logging security.jpg" width="40"></td>
+<td><img src=" width="40"></td>
 <td><b>Logging Security Pvt. Ltd.</b></td>
 <td>VAPT & Cloud Security Analyst</td>
 <td>Part-Time</td>
 <td>May 2026 – Present</td>
 </tr>
+</table>
+<h2>💼 Experience</h2>
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Mode</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>
+<img src=""assets/logos/logging security.jpg" width="25" alt="Logging Security">
+&nbsp;Logging Security Pvt. Ltd.
+</td>
+<td>VAPT & Cloud Security Analyst</td>
+<td>Part-Time</td>
+<td>May 2026 – Present</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/logos/hackerade.jpg" width="25" alt="Hackerade">
+&nbsp;Hackerade
+</td>
+<td>Cyber Security Trainee</td>
+<td>Part-Time</td>
+<td>Sep 2025 – Present</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/logos/avira-world.png" width="25" alt="Avira World">
+&nbsp;Avira World
+</td>
+<td>Cyber Security Analyst Intern</td>
+<td>Part-Time</td>
+<td>Feb 2025 – Apr 2025</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/logos/cranes-varsity.png" width="25" alt="Cranes Varsity">
+&nbsp;Cranes Varsity
+</td>
+<td>Embedded Systems Intern</td>
+<td>Part-Time</td>
+<td>Jul 2024 – Feb 2025</td>
+</tr>
+
 </table>
 
 ---
