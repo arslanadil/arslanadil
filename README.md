@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="Neutral Creative Professional LinkedIn Article Cover Image.jpg" width="100%" alt="Banner">
 <p align="center">
-  <a href="https://linkedin.com/in/arslanadil">LinkedIn</a> •
-  <a href="mailto:adilarslan26@gmail.com">Email</a> •
-  <a href="./Arslan%20Adil%20Resume_VAPT.pdf">Resume</a>
+  <a href="https://linkedin.com/in/arslanadil">linkedin.com/in/arslanadil</a> •
+  <a href="mailto:adilarslan26@gmail.com">adilarslan26@gmail.com</a> •
+  <a href="./Arslan%20Adil%20Resume_VAPT.pdf">My Resume</a>
 </p>
 
 ---
