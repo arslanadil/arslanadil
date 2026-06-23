@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">VAPT & Cloud Security Analyst | Cybersecurity Researcher | CEH Certified</h3>
 
 <p align="center">
-  [LinkedIn](https://linkedin.com/in/arslanadil) •
-[Email](mailto:adilarslan26@gmail.com) •
-[Resume](./Arslan Adil Resume_VAPT.pdf)
+  [LinkedIn](https://linkedin.com/in/arslanadil) • [Email](mailto:adilarslan26@gmail.com) • [Resume](./Arslan Adil Resume_VAPT.pdf)
 </p>
 
 ---
