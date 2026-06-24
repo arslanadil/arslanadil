@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/arslanadil">linkedin.com/in/arslanadil</a> •
   <a href="mailto:adilarslan26@gmail.com">adilarslan26@gmail.com</a> •
-  <a href="./Arslan%20Adil%20Resume_VAPT.pdf">My Resume</a>
+  <a href="assets/logos/Arslan Adil Resume_VAPT.pdf">My Resume</a>
 </p>
 
 ---
